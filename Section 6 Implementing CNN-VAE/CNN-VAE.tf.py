@@ -1,8 +1,6 @@
 ###########################
 # TensorFlow Version
 ###########################
-# Building a VAE Model
-###########################
 
 # Importing the Libraries
 import numpy as np
@@ -10,6 +8,9 @@ import tensorflow as tf
 
 # Building the VAE class within a model
 
+##########################
+# Building a VAE Model
+###########################
 class ConvVAE(object):
 
     # Init all params and vars of the ConvVae Class
